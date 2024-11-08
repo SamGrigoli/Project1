@@ -1,3 +1,0 @@
-(library
- (name project1)
- (libraries lwt domainslib))

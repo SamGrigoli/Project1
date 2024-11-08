@@ -1,0 +1,6 @@
+(executable
+  (name app)
+  (public_name project1)               
+  (modules app)            ;; The executable includes only main.ml   
+  (libraries domainslib lwt opium yojson))  
+ 

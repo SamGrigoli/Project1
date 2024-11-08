@@ -1,0 +1,16 @@
+# dune exec ./_build/default/bin/app.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/grigols/.cache/dune/db
+# Workspace root: /home/grigols/CS431/Class3/Project_1_431
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/grigols/.opam/default/bin/ocamlc.opt -config > /tmp/dune_ac33c9_output
